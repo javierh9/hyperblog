@@ -1,14 +1,8 @@
 body
 {
-<<<<<<< HEAD
     color:#333;
     text-align: left;
-    font-family: 'Courier New', Courier, monospace;
-=======
-    color: #333;
-    text-align: center;
-    font-family: Arial;
->>>>>>> cabecera
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
     margin: 0;
     padding: 0;
