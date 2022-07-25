@@ -2,4 +2,6 @@ Esta es la hstoria de Javier Herrera
 
 Javier Herrera tiene 51 años y nació en México
 
+Se agrego Anita PLatzi
+
 Curso Platzi de Git y GitHub
