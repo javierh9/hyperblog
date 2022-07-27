@@ -4,4 +4,6 @@ Javier Herrera tiene 51 años y nació en México
 
 Se agrego Anita PLatzi
 
+Anita Platzi es una persona que contribuye en este proyecto open source y nació en Internet
+
 Curso Platzi de Git y GitHub
